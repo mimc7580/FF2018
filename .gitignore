@@ -1,0 +1,6 @@
+reviewer_comments.txt
+*.png
+*.jpg
+*.jpeg
+subfolder_a/
+!one_special_image.png
